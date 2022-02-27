@@ -1,3 +1,4 @@
 added line one - commit one
 added line two - commit two
 added line three - commit three
+added line four - commit four
