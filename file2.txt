@@ -1,3 +1,0 @@
-i am in file2.
-adding some line
-to test git diff command
