@@ -1,2 +1,6 @@
 added line one - commit one
+<<<<<<< HEAD
 added line two - commit two
+=======
+added line two - commit two
+>>>>>>> parent of 459f9dc (commit 3)
